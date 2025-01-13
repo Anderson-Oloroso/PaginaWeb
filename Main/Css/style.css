@@ -203,10 +203,13 @@ article section{
     align-content: center;
     padding-bottom: 40px;
 }
+.L_circulo{
+    border-radius: 50%; 
+    object-fit: cover;
+}
 footer{
     width: 100%;
     height: auto;
-    display: flex;
     display: flex;
     flex-flow: row wrap;
     justify-content: center;

@@ -25,6 +25,10 @@ img{
     align-items: flex-start;
     align-content: flex-start;
 }
+.L_circulo{
+    border-radius: 50%; 
+    object-fit: cover;
+}
 div{
     width: 90%;
     height: 100%;
