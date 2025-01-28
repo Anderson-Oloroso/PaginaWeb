@@ -6,8 +6,10 @@ body{
     justify-content: center;
     align-items: center;
     align-content: center;
-    background-image: url(../../IMG/Codes2.png);
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: background-image 0.5s ease;
 }
 header{
     width: 99%;
