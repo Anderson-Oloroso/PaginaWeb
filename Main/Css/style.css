@@ -6,6 +6,8 @@ body{
     justify-content: center;
     align-items: center;
     align-content: center;
+    background-image: url(../../IMG/Codes2.png);
+    background-size: cover;
 }
 header{
     width: 99%;
@@ -24,6 +26,7 @@ img{
     justify-content: flex-start;
     align-items: flex-start;
     align-content: flex-start;
+    box-shadow: 3px 0px 9em white;
 }
 div{
     width: 90%;
@@ -40,6 +43,7 @@ p{
     justify-content: flex-end;
     align-items: flex-end;
     align-content: flex-end;
+    color: white;
 }
 .h{
     width: 99%;
@@ -206,6 +210,7 @@ article section{
 .L_circulo{
     border-radius: 50%; 
     object-fit: cover;
+    box-shadow: 1em 0px 9em white;
 }
 footer{
     width: 100%;
